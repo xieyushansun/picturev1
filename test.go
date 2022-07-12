@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("v3")
 	fmt.Println("test branch v1")
 	fmt.Println("test branch v2")
+	fmt.Println("测试 github")
 }
