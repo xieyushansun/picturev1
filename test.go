@@ -10,4 +10,5 @@ func main() {
 	fmt.Println("test branch v2")
 	fmt.Println("测试 github")
 	fmt.Println("test pull")
+	fmt.Println("test pull1")
 }
